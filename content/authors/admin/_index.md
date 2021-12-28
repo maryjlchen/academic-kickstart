@@ -71,6 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-Mary Chen obtained both her Bachelor's degree in Nanotechnology Engineering and her Master's degree in Chemical Engineering from the University of Waterloo. During her studies, she gained practical experience in a broad range of materials research areas, including biomedical devices and sustainable technologies. Mary is now part of CMASLab, where she is conducting her PhD on the development of material systems, processing technologies, and fabrication routes for novel polymeric heart valve implants.
+I obtained both my Bachelor's degree in Nanotechnology Engineering and my Master's degree in Chemical Engineering from the University of Waterloo. During my studies, I gained practical experience in a broad range of materials research areas, including catalysis and energy storage at the University of Waterloo, thin films at the University of Calgary, and sustainable composite processing at the Composite Materials and Adaptive Structures Lab in ETH Zurich. I am now part of CMASLab, where I am conducting my PhD on the development of material systems, processing technologies, and fabrication routes for novel polymeric heart valve implants.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
