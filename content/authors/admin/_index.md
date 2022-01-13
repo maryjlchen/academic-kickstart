@@ -14,11 +14,11 @@ organizations:
   url: https://structures.ethz.ch/en.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applying materials science and process engineering to biomedical and sustainable applications.
+bio: My research interests include applying surface science and process engineering to biomedical and sustainable applications.
 
 # Interests to show in About widget
 interests:
-- Materials Science
+- Surface Science
 - Process Engineering
 - Biomedical Devices
 - Sustainable Technology
@@ -71,6 +71,10 @@ email: ""
 highlight_name: true
 ---
 
-I obtained both my Bachelor's degree in Nanotechnology Engineering and my Master's degree in Chemical Engineering from the University of Waterloo. During my studies, I gained practical experience in a broad range of materials research areas, including catalysis and energy storage at the University of Waterloo, thin films at the University of Calgary, and sustainable composite processing at the Composite Materials and Adaptive Structures Lab in ETH Zurich. I am now part of CMASLab, where I am conducting my PhD on the development of material systems, processing technologies, and fabrication routes for novel polymeric heart valve implants.
+I use surface science and process engineering to solve problems - whether it be improving the blood compatibility of affordable biomedical devices, developing strategies to increase energy storage capacity, or optimizing the performance of sustainable catalysts. 
+
+I obtained both my Bachelor's degree in Nanotechnology Engineering and my Master's degree in Chemical Engineering from the University of Waterloo. During my studies, I gained practical experience in a broad range of research areas, including catalysis, thin films, composite materials, medical sensors, and energy storage. 
+
+I am now part of CMASLab at ETH Zurich, where I am conducting my PhD on the development of material systems, processing technologies, and fabrication routes for novel polymeric heart valve implants.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
