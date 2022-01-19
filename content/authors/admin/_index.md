@@ -14,14 +14,13 @@ organizations:
   url: https://structures.ethz.ch/en.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applying surface science and designing processes to biomedical and sustainable applications.
+bio: I research surface science and design processes for biomedical and sustainable applications.
 
 # Interests to show in About widget
 interests:
-- Surface Science
-- Process Design
-- Biomedical Devices
-- Sustainable Technology
+- Biomaterials
+- Medical Devices
+- Sustainability
 
 # Education to show in About widget
 education:
@@ -71,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-I research surface science and design processes to solve problems - whether it be improving the blood compatibility of affordable biomedical devices, developing strategies to increase energy storage capacity, or optimizing the performance of sustainable catalysts. 
+I research surface science and design processes to solve problems - whether it be improving the blood compatibility of affordable biomedical devices, developing strategies to increase energy storage capacity, or optimizing the performance of sustainable catalysts.
 
 I obtained both my Bachelor's degree in Nanotechnology Engineering and my Master's degree in Chemical Engineering from the University of Waterloo. During my studies, I gained practical experience in a broad range of research areas, including catalysis, thin films, composite materials, medical sensors, and energy storage.
 
