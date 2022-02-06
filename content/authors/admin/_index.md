@@ -20,7 +20,7 @@ bio: I research surface science and design processes for biomedical and sustaina
 interests:
 - Biomaterials
 - Medical Devices
-- Sustainability
+- Sustainable Development
 
 # Education to show in About widget
 education:
