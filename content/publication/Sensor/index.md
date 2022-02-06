@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publication/Sensor/SensorPoster.pdf'
+url_pdf: 'publication/sensor/SensorPoster.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
