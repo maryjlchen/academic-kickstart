@@ -11,7 +11,7 @@ role: Doctoral Candidate at ETH Zurich
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Composite Materials and Adaptive Structures Laboratory
-  url: https://structures.ethz.ch/en.html
+  url: https://structures.ethz.ch/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I research surface science and design processes for biomedical and sustainable applications.
@@ -48,7 +48,7 @@ social:
   link: https://twitter.com/maryjlchen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.ca/citations?user=uhbiOZkAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.com/citations?user=uhbiOZkAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/maryjlchen
