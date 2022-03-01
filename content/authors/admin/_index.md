@@ -14,12 +14,13 @@ organizations:
   url: https://structures.ethz.ch/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I research surface science and design processes for biomedical and sustainable applications.
+bio: I develop materials and design processes for biomedical and sustainable applications.
 
 # Interests to show in About widget
 interests:
-- Biomaterials
-- Medical Devices
+- Advanced Materials
+- Process Design
+- Translational Research
 - Sustainable Development
 
 # Education to show in About widget
@@ -70,7 +71,7 @@ email: ""
 highlight_name: true
 ---
 
-I research surface science and design processes to solve problems - whether it be improving the blood compatibility of affordable biomedical devices, developing strategies to increase energy storage capacity, or optimizing the performance of sustainable catalysts.
+I develop materials and design processes to solve problems - whether it be improving the blood compatibility of affordable biomedical devices, developing strategies to increase energy storage capacity, or optimizing the performance of sustainable catalysts.
 
 I obtained both my Bachelor's degree in Nanotechnology Engineering and my Master's degree in Chemical Engineering from the University of Waterloo. During my studies, I gained practical experience in a broad range of research areas, including catalysis, thin films, composite materials, medical sensors, and energy storage.
 
