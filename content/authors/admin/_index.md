@@ -20,8 +20,9 @@ bio: I develop materials and design processes for biomedical and sustainable app
 interests:
 - Advanced Materials
 - Process Design
-- Translational Research
-- Sustainable Development
+- Medical Devices
+- Electrochemistry
+- Science Advocacy
 
 # Education to show in About widget
 education:
@@ -74,6 +75,8 @@ highlight_name: true
 I develop materials and design processes to solve problems - whether it be improving the blood compatibility of affordable biomedical devices, developing strategies to increase energy storage capacity, or optimizing the performance of sustainable catalysts.
 
 I obtained both my Bachelor's degree in Nanotechnology Engineering and my Master's degree in Chemical Engineering from the University of Waterloo. During my studies, I gained practical experience in a broad range of research areas, including catalysis, thin films, composite materials, medical sensors, and energy storage.
+
+I also have science advocacy experience as a conference organizer of the Waterloo Nanotechnology Conference and as a board member of AV-MAVT, scientific staff association for the Department of Mechanical and Process Engineering at ETH Zurich.
 
 I am now part of CMASLab at ETH Zurich, where I am conducting my PhD on the development of material systems, processing technologies, and fabrication routes for novel polymeric heart valve implants.
 
