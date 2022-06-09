@@ -76,7 +76,7 @@ I develop materials and design processes to solve problems - whether it be impro
 
 I obtained both my Bachelor's degree in Nanotechnology Engineering and my Master's degree in Chemical Engineering from the University of Waterloo. During my studies, I gained practical experience in a broad range of research areas, including catalysis, thin films, composite materials, medical sensors, and energy storage.
 
-I also have science advocacy experience as a conference organizer of the Waterloo Nanotechnology Conference and as a board member of AV-MAVT, scientific staff association for the Department of Mechanical and Process Engineering at ETH Zurich.
+I also have science advocacy experience as logistics director of the Waterloo Nanotechnology Conference, board member of AV-MAVT, scientific staff association at ETH Zurich, and social media manager of Science & Policy Exchange.
 
 I am now part of CMASLab at ETH Zurich, where I am conducting my PhD on the development of material systems, processing technologies, and fabrication routes for novel polymeric heart valve implants.
 
