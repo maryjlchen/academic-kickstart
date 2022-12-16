@@ -76,8 +76,6 @@ I develop materials and design processes to solve problems - whether it be impro
 
 I obtained both my Bachelor's degree in Nanotechnology Engineering and my Master's degree in Chemical Engineering from the University of Waterloo. During my studies, I gained practical experience in a broad range of research areas, including catalysis, thin films, composite materials, medical sensors, and energy storage.
 
-Currently, I serve as Vice-President of Telejob (part of the Association of Scientific Staff at ETH Zurich), Associate Editor at the Journal of Science Policy & Governance, and VP Marketing at Science & Policy Exchange.
-
-I am now part of CMASLab at ETH Zurich, where I am conducting my PhD on the development of material systems, processing technologies, and fabrication routes for novel polymeric heart valve implants.
+I am now part of CMASLab at ETH Zurich, where I am conducting my PhD on the development of material systems, processing technologies, and fabrication routes for novel polymeric heart valve implants. I also serve as Vice-President of Telejob (part of the Association of Scientific Staff at ETH Zurich), Associate Editor at the Journal of Science Policy & Governance, and VP Marketing at Science & Policy Exchange.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
